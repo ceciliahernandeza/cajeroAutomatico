@@ -1,0 +1,125 @@
+body{
+    background-color: rgb(250, 246, 173);
+}
+
+.logotipo img{ 
+    width: 150px;
+    height: 100px;
+    margin-left: 2px;
+ } 
+
+ h1{
+    margin-top: 100px;
+    display: inline-block;
+    margin-left: 260px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contenedor{
+    margin-top: 0px; 
+    background-color: rgb(70, 57, 250); 
+    padding: 50px 7px; 
+    text-align: center;
+}
+
+ .iniciarSesion{
+    background-color: rgb(185, 183, 183);
+    width: 110px;
+    height: 40px;
+    border: 1px solid transparent;
+    text-align: center;
+    color: rgb(8, 8, 8);
+    border-radius: 0.50rem;
+    font-size: 0.90rem;
+ }
+
+ .iniciarSesion1{
+    background-color: rgb(185, 183, 183);
+    width: 110px;
+    height: 40px;
+    border: 1px solid transparent;
+    text-align: center;
+    color: rgb(8, 8, 8);
+    border-radius: 0.50rem;
+    font-size: 0.90rem;
+ }
+
+ .crearCuenta1{
+    background-color: rgb(185, 183, 183);
+    width: 110px;
+    height: 40px;
+    border: 1px solid transparent;
+    text-align: center;
+    color: rgb(8, 8, 8);
+    border-radius: 0.50rem;
+    font-size: 0.90rem;
+ }
+
+ .crearCuenta{
+    background-color: rgb(185, 183, 183);
+    width: 110px;
+    height: 40px;
+    border: 1px solid transparent;
+    text-align: center;
+    color: rgb(8, 8, 8);
+    border-radius: 0.50rem;
+    font-size: 0.90rem;
+ }
+
+ .consultarSaldo{
+    background-color: rgb(185, 183, 183);
+    width: 110px;
+    height: 40px;
+    border: 1px solid transparent;
+    text-align: center;
+    color: rgb(8, 8, 8);
+    border-radius: 0.50rem;
+    font-size: 0.90rem;
+ }
+
+ .ingresar{
+    background-color: rgb(185, 183, 183);
+    width: 110px;
+    height: 40px;
+    border: 1px solid transparent;
+    text-align: center;
+    color: rgb(8, 8, 8);
+    border-radius: 0.50rem;
+    font-size: 0.90rem;
+ }
+
+ .retirarMonto{
+    background-color: rgb(185, 183, 183);
+    width: 110px;
+    height: 40px;
+    border: 1px solid transparent;
+    text-align: center;
+    color: rgb(8, 8, 8);
+    border-radius: 0.50rem;
+    font-size: 0.90rem;
+ }
+
+ .salir{
+    background-color: rgb(185, 183, 183);
+    width: 110px;
+    height: 40px;
+    border: 1px solid transparent;
+    text-align: center;
+    color: rgb(8, 8, 8);
+    border-radius: 0.50rem;
+    font-size: 0.90rem;
+ }
+
+ .volver{
+    background-color: rgb(185, 183, 183);
+    width: 110px;
+    height: 40px;
+    border: 1px solid transparent;
+    text-align: center;
+    color: rgb(8, 8, 8);
+    border-radius: 0.50rem;
+    font-size: 0.90rem;
+ }
