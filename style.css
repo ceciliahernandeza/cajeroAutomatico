@@ -20,53 +20,31 @@ body{
 
 .contenedor{
     margin-top: 0px; 
-    background-color: rgb(70, 57, 250); 
-    padding: 50px 7px; 
+    background-color: rgb(85, 73, 248); 
+    padding: 50px 7px;
     text-align: center;
 }
 
  .iniciarSesion{
     background-color: rgb(185, 183, 183);
-    width: 110px;
-    height: 40px;
+    width: 150px;
+    height: 50px;
     border: 1px solid transparent;
     text-align: center;
     color: rgb(8, 8, 8);
     border-radius: 0.50rem;
-    font-size: 0.90rem;
+    font-size: 1.2rem;
  }
 
  .iniciarSesion1{
     background-color: rgb(185, 183, 183);
-    width: 110px;
-    height: 40px;
+    width: 150px;
+    height: 50px;
     border: 1px solid transparent;
     text-align: center;
     color: rgb(8, 8, 8);
     border-radius: 0.50rem;
-    font-size: 0.90rem;
- }
-
- .crearCuenta1{
-    background-color: rgb(185, 183, 183);
-    width: 110px;
-    height: 40px;
-    border: 1px solid transparent;
-    text-align: center;
-    color: rgb(8, 8, 8);
-    border-radius: 0.50rem;
-    font-size: 0.90rem;
- }
-
- .crearCuenta{
-    background-color: rgb(185, 183, 183);
-    width: 110px;
-    height: 40px;
-    border: 1px solid transparent;
-    text-align: center;
-    color: rgb(8, 8, 8);
-    border-radius: 0.50rem;
-    font-size: 0.90rem;
+    font-size: 1.2rem;
  }
 
  .consultarSaldo{
@@ -77,10 +55,9 @@ body{
     text-align: center;
     color: rgb(8, 8, 8);
     border-radius: 0.50rem;
-    font-size: 0.90rem;
  }
 
- .ingresar{
+ .ingresarSaldo{
     background-color: rgb(185, 183, 183);
     width: 110px;
     height: 40px;
@@ -88,7 +65,6 @@ body{
     text-align: center;
     color: rgb(8, 8, 8);
     border-radius: 0.50rem;
-    font-size: 0.90rem;
  }
 
  .retirarMonto{
@@ -99,7 +75,6 @@ body{
     text-align: center;
     color: rgb(8, 8, 8);
     border-radius: 0.50rem;
-    font-size: 0.90rem;
  }
 
  .salir{
@@ -110,7 +85,6 @@ body{
     text-align: center;
     color: rgb(8, 8, 8);
     border-radius: 0.50rem;
-    font-size: 0.90rem;
  }
 
  .volver{
